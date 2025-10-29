@@ -20,7 +20,7 @@ const Navbar = () => {
             </Image>
         </Link>
         <div className='font-one font-medium text-[var(--blue)] max-sm:hidden'>
-            <ul className='flex gap-4'>
+            <ul className='flex gap-8'>
                 <Link href={"/apply"}>
                     <li className='inline hover:underline cursor-pointer'>Apply Now</li>
                 </Link>
