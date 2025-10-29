@@ -25,7 +25,7 @@ const Navbar = () => {
                     <li className='inline hover:underline cursor-pointer'>Apply Now</li>
                 </Link>
                 <Link href={"/aboutus"}>
-                    <li className='inline hover:underline cursor-pointer'>About Us</li>
+                    <li className='inline hover:underline cursor-pointer'>Meet The Team</li>
                 </Link>
             </ul>
         </div>
@@ -52,7 +52,7 @@ const Navbar = () => {
                                 <li className='inline hover:underline cursor-pointer'>Apply Now</li>
                             </Link>
                             <Link href={"/aboutus"}>
-                                <li className='inline hover:underline cursor-pointer'>About Us</li>
+                                <li className='inline hover:underline cursor-pointer'>Meet The Team</li>
                             </Link>
                         </ul>
                         
